@@ -29,3 +29,8 @@ jobs:
           # Follow up issues and pull request
           plugin_followup: yes
           plugin_followup_sections: user
+          # Coding habits
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
+          plugin_habits_charts: yes

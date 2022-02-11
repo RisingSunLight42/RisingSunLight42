@@ -20,3 +20,5 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Europe/Paris
           config_display: large
+          plugin_achievements: yes
+          plugin_achievements_threshold: X

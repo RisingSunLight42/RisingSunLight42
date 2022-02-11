@@ -26,3 +26,6 @@ jobs:
           # Activity
           plugin_activity: no
           plugin_activity_timestamps: yes
+          # Follow up issues and pull request
+          plugin_followup: yes
+          plugin_followup_sections: user

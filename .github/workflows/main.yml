@@ -41,4 +41,4 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           # Config order
-          config_order: base.header, wakatime, languages, base, followup, habits, isocalendar, achievements
+          config_order: base, wakatime, languages, followup, habits, isocalendar, achievements

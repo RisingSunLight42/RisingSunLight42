@@ -115,7 +115,7 @@
                                 <span class="value">90%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">website</span>
+                                <span class="name">my-website</span>
                                 <div class="bar" style="width: 8.376%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>

@@ -631,7 +631,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 26.11219874434618%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 26.115724799135776%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">33%</span>
                             </div>
                         </div>
@@ -1832,7 +1832,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.64m out of 98m users</span>
+                                    <span class="gh">ranked 4.64m out of 99m users</span>
                                 </div>
                                 <div class="text">Published 10 public repositories</div>
                             </div>
@@ -1964,7 +1964,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 993k out of 98m users</span>
+                                    <span class="gh">ranked 994k out of 99m users</span>
                                 </div>
                                 <div class="text">Followed by 10 users</div>
                             </div>

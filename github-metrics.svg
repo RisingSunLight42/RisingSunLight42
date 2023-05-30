@@ -181,7 +181,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2930 Commits
+                            2934 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -331,14 +331,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.031142664963" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="330.031142664963" y="0" width="185.40929139660497" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="515.440434061568" y="0" width="131.93942593064028" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="647.3798599922084" y="0" width="93.32795446615421" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="740.7078144583626" y="0" width="69.91683631516149" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="810.6246507735241" y="0" width="69.44243324335118" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="880.0670840168752" y="0" width="34.05600474338004" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="914.1230887602553" y="0" width="5.87691123974484" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.37320154323317" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="329.37320154323317" y="0" width="186.87375148036583" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="516.246953023599" y="0" width="131.67639507483608" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="647.9233480984351" y="0" width="93.14189839109906" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="741.065246489534" y="0" width="69.7774520093607" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="810.8426984988947" y="0" width="69.30399469462863" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="880.1466931935233" y="0" width="33.9881116173509" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="914.1348048108744" y="0" width="5.865195189125612" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -350,7 +350,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>35.87%</div>
+                                <div>35.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -361,7 +361,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>7.6%</div>
+                                <div>7.58%</div>
                             </small>
                         </div>
                     </section>
@@ -374,7 +374,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>20.15%</div>
+                                <div>20.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -385,7 +385,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>7.55%</div>
+                                <div>7.53%</div>
                             </small>
                         </div>
                     </section>
@@ -398,7 +398,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>14.34%</div>
+                                <div>14.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -409,7 +409,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>3.7%</div>
+                                <div>3.69%</div>
                             </small>
                         </div>
                     </section>
@@ -422,7 +422,7 @@
                                 C
                             </div>
                             <small>
-                                <div>10.14%</div>
+                                <div>10.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2260,7 +2260,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.77m out of 405m repositories</span>
+                                    <span class="gh">ranked 4.65m out of 405m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>

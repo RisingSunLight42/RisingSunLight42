@@ -1,9 +1,8 @@
-# 💻 À propos de moi
+# 💻 About me
 
-Je suis un jeune étudiant en BUT qui souhaite travailler dans le monde de la cybersécurité.🔑  
-J'aime toucher un peu à tout malgré tout, particulièrement lorsque cela touche à Discord.⌨️  
-Sorry fellow english speakers, my Github is french focused for now, i'll try to adapt it for everyone later !
+I'm a young student in IT from France. I want to work in cybersecurity, but as a dev enthousiast, everything interest me!
+As I'm currently in an apprenticeship where I mainly use Symfony, I've been quite curious about the PHP ecosystem lately (I even got to Symfony Live 2025 in Paris!).
 
-# ✨ Mes jolies stats
+# ✨ Small stats
 
 ![Metrics](/github-metrics.svg)
